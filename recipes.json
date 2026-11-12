@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "name": "Creamy Garlic Pasta",
+    "category": "Dinner",
+    "time": "25 minutes",
+    "image": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
+    "ingredients": ["200g pasta", "3 garlic cloves", "1 cup fresh cream", "2 tablespoons butter", "Salt and pepper", "Parmesan cheese"],
+    "instructions": ["Boil pasta in salted water until cooked.", "Melt butter in a pan and add chopped garlic.", "Add fresh cream, salt and pepper.", "Mix the cooked pasta into the sauce.", "Add cheese and serve warm."]
+  },
+  {
+    "id": 2,
+    "name": "Classic Margherita Pizza",
+    "category": "Dinner",
+    "time": "35 minutes",
+    "image": "https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg",
+    "ingredients": ["1 pizza base", "1/2 cup pizza sauce", "Mozzarella cheese", "Fresh basil leaves", "Olive oil"],
+    "instructions": ["Spread pizza sauce over the base.", "Add mozzarella cheese.", "Place fresh basil leaves on top.", "Bake until the cheese melts and the base is crisp.", "Slice and serve."]
+  },
+  {
+    "id": 3,
+    "name": "Fresh Garden Salad",
+    "category": "Lunch",
+    "time": "15 minutes",
+    "image": "https://images.pexels.com/photos/1211887/pexels-photo-1211887.jpeg",
+    "ingredients": ["1 cucumber", "2 tomatoes", "1 carrot", "Lettuce leaves", "Lemon juice", "Salt and pepper"],
+    "instructions": ["Wash all vegetables thoroughly.", "Chop the vegetables into small pieces.", "Place them in a large bowl.", "Add lemon juice, salt and pepper.", "Toss well and serve fresh."]
+  },
+  {
+    "id": 4,
+    "name": "Chocolate Pancakes",
+    "category": "Breakfast",
+    "time": "20 minutes",
+    "image": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg",
+    "ingredients": ["1 cup flour", "2 tablespoons cocoa powder", "1 egg", "1 cup milk", "2 tablespoons sugar", "Chocolate syrup"],
+    "instructions": ["Mix flour, cocoa powder and sugar.", "Add egg and milk to make a smooth batter.", "Heat a lightly greased pan.", "Pour batter and cook both sides.", "Serve with chocolate syrup."]
+  },
+  {
+    "id": 5,
+    "name": "Strawberry Cheesecake",
+    "category": "Dessert",
+    "time": "45 minutes",
+    "image": "https://images.pexels.com/photos/1126359/pexels-photo-1126359.jpeg",
+    "ingredients": ["Cream cheese", "Digestive biscuits", "Butter", "Sugar", "Fresh strawberries", "Fresh cream"],
+    "instructions": ["Crush the biscuits and mix with melted butter.", "Press the mixture into a cake tin.", "Beat cream cheese, sugar and fresh cream.", "Spread the mixture over the biscuit base.", "Add strawberry topping and chill until set."]
+  },
+  {
+    "id": 6,
+    "name": "Vegetable Fried Rice",
+    "category": "Lunch",
+    "time": "25 minutes",
+    "image": "https://images.pexels.com/photos/723198/pexels-photo-723198.jpeg",
+    "ingredients": ["2 cups cooked rice", "1 carrot", "1/2 cup beans", "Spring onions", "2 tablespoons soy sauce", "Salt and pepper"],
+    "instructions": ["Chop all vegetables into small pieces.", "Heat oil in a pan and saute the vegetables.", "Add cooked rice.", "Add soy sauce, salt and pepper.", "Mix well and garnish with spring onions."]
+  },
+  {
+    "id": 7,
+    "name": "Avocado Toast",
+    "category": "Breakfast",
+    "time": "10 minutes",
+    "image": "https://images.pexels.com/photos/1351238/pexels-photo-1351238.jpeg",
+    "ingredients": ["2 slices of bread", "1 ripe avocado", "Lemon juice", "Salt and pepper", "Chilli flakes"],
+    "instructions": ["Toast the bread slices.", "Mash the avocado in a bowl.", "Add lemon juice, salt and pepper.", "Spread the mixture over the toast.", "Sprinkle chilli flakes and serve."]
+  },
+  {
+    "id": 8,
+    "name": "Chocolate Lava Cake",
+    "category": "Dessert",
+    "time": "30 minutes",
+    "image": "https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg",
+    "ingredients": ["100g dark chocolate", "50g butter", "2 eggs", "1/4 cup sugar", "2 tablespoons flour"],
+    "instructions": ["Melt chocolate and butter together.", "Whisk eggs and sugar in a bowl.", "Combine both mixtures and add flour.", "Pour into greased ramekins.", "Bake until the outside is set and the centre remains soft."]
+  },
+  {
+    "id": 9,
+    "name": "Masala Dosa",
+    "category": "Breakfast",
+    "time": "30 minutes",
+    "image": "https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg",
+    "ingredients": ["2 cups dosa batter", "3 boiled potatoes", "1 onion", "1/2 teaspoon mustard seeds", "Curry leaves", "Turmeric powder", "Salt and oil"],
+    "instructions": ["Mash the boiled potatoes.", "Heat oil and add mustard seeds and curry leaves.", "Add chopped onion and turmeric.", "Mix in the potatoes and salt.", "Spread dosa batter on a hot pan.", "Add potato masala, fold and serve with chutney."]
+  },
+  {
+    "id": 10,
+    "name": "Idli and Coconut Chutney",
+    "category": "Breakfast",
+    "time": "25 minutes",
+    "image": "https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg",
+    "ingredients": ["2 cups idli batter", "1 cup grated coconut", "2 green chillies", "1 small piece ginger", "Mustard seeds", "Curry leaves", "Salt"],
+    "instructions": ["Pour idli batter into greased idli moulds.", "Steam for about 10 to 12 minutes.", "Blend coconut, green chillies, ginger and salt.", "Add a little water to make chutney.", "Temper mustard seeds and curry leaves in oil.", "Pour the tempering over chutney and serve with idlis."]
+  },
+  {
+    "id": 11,
+    "name": "Paneer Butter Masala",
+    "category": "Dinner",
+    "time": "35 minutes",
+    "image": "https://images.pexels.com/photos/9609845/pexels-photo-9609845.jpeg",
+    "ingredients": ["200g paneer", "2 tomatoes", "1 onion", "2 tablespoons butter", "1/2 cup fresh cream", "Ginger garlic paste", "Garam masala", "Salt"],
+    "instructions": ["Cut paneer into cubes.", "Cook chopped onions and tomatoes until soft.", "Blend the mixture into a smooth paste.", "Heat butter and add ginger garlic paste.", "Add the tomato paste, spices and salt.", "Add cream and paneer cubes.", "Simmer for a few minutes and serve."]
+  },
+  {
+    "id": 12,
+    "name": "Vegetable Biryani",
+    "category": "Lunch",
+    "time": "45 minutes",
+    "image": "https://images.pexels.com/photos/12737656/pexels-photo-12737656.jpeg",
+    "ingredients": ["2 cups basmati rice", "1 cup mixed vegetables", "1 onion", "1 tomato", "Ginger garlic paste", "Biryani masala", "Mint leaves", "Curd", "Salt"],
+    "instructions": ["Wash and soak basmati rice.", "Heat oil and fry sliced onions.", "Add ginger garlic paste and chopped tomatoes.", "Add vegetables, curd and biryani masala.", "Add rice, water and salt.", "Cook until the rice is fluffy and vegetables are tender.", "Garnish with mint leaves."]
+  },
+  {
+    "id": 13,
+    "name": "Chicken Chettinad",
+    "category": "Dinner",
+    "time": "45 minutes",
+    "image": "https://images.pexels.com/photos/7625056/pexels-photo-7625056.jpeg",
+    "ingredients": ["500g chicken", "2 onions", "2 tomatoes", "Ginger garlic paste", "Curry leaves", "Black pepper", "Fennel seeds", "Coriander powder", "Salt"],
+    "instructions": ["Clean and cut the chicken into pieces.", "Roast pepper, fennel and coriander spices.", "Heat oil and saute onions and curry leaves.", "Add ginger garlic paste and tomatoes.", "Add chicken and roasted spices.", "Cook with a little water until the chicken is fully cooked.", "Serve hot with rice or parotta."]
+  },
+  {
+    "id": 14,
+    "name": "Palak Paneer",
+    "category": "Lunch",
+    "time": "30 minutes",
+    "image": "https://images.pexels.com/photos/9609845/pexels-photo-9609845.jpeg",
+    "ingredients": ["200g paneer", "2 cups spinach", "1 onion", "1 tomato", "Ginger garlic paste", "1/2 teaspoon cumin", "Cream", "Salt"],
+    "instructions": ["Wash spinach and blanch it briefly.", "Blend spinach into a smooth puree.", "Heat oil and add cumin seeds.", "Add onion, tomato and ginger garlic paste.", "Add spinach puree and salt.", "Add paneer cubes and simmer.", "Finish with a little cream."]
+  },
+  {
+    "id": 15,
+    "name": "Sambar Rice",
+    "category": "Lunch",
+    "time": "35 minutes",
+    "image": "https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg",
+    "ingredients": ["1 cup rice", "1/2 cup toor dal", "1 tomato", "1 onion", "1 cup mixed vegetables", "2 tablespoons sambar powder", "Tamarind water", "Mustard seeds", "Salt"],
+    "instructions": ["Cook rice and toor dal until soft.", "Cook vegetables in a pot.", "Add tomato, tamarind water and sambar powder.", "Mix in the cooked dal and rice.", "Add salt and simmer until well combined.", "Temper mustard seeds in oil and pour over the rice."]
+  },
+  {
+    "id": 16,
+    "name": "Aloo Paratha",
+    "category": "Breakfast",
+    "time": "30 minutes",
+    "image": "https://images.pexels.com/photos/2474661/pexels-photo-2474661.jpeg",
+    "ingredients": ["2 cups wheat flour", "3 boiled potatoes", "1 green chilli", "Coriander leaves", "Cumin powder", "Salt", "Ghee"],
+    "instructions": ["Prepare a soft dough using wheat flour and water.", "Mash boiled potatoes.", "Mix potatoes with chilli, coriander, cumin and salt.", "Fill small portions of dough with potato mixture.", "Roll gently into parathas.", "Cook on a hot pan with ghee until both sides are golden."]
+  },
+  {
+    "id": 17,
+    "name": "Pav Bhaji",
+    "category": "Dinner",
+    "time": "35 minutes",
+    "image": "https://images.pexels.com/photos/9609834/pexels-photo-9609834.jpeg",
+    "ingredients": ["3 potatoes", "1 cup cauliflower", "1/2 cup peas", "1 capsicum", "2 tomatoes", "2 tablespoons pav bhaji masala", "Butter", "Pav buns", "Salt"],
+    "instructions": ["Boil potatoes, cauliflower and peas until soft.", "Mash the cooked vegetables.", "Heat butter and saute capsicum and tomatoes.", "Add pav bhaji masala and salt.", "Mix in the mashed vegetables and simmer.", "Toast pav buns with butter.", "Serve bhaji with toasted pav."]
+  },
+  {
+    "id": 18,
+    "name": "Gulab Jamun",
+    "category": "Dessert",
+    "time": "40 minutes",
+    "image": "https://images.pexels.com/photos/1126359/pexels-photo-1126359.jpeg",
+    "ingredients": ["1 cup milk powder", "1/4 cup flour", "2 tablespoons ghee", "Milk as needed", "1 cup sugar", "1 cup water", "Cardamom powder"],
+    "instructions": ["Mix milk powder, flour and ghee.", "Add milk little by little to form a soft dough.", "Shape into small smooth balls.", "Boil sugar and water to prepare syrup.", "Fry the balls on low heat until golden brown.", "Place them in warm sugar syrup.", "Allow them to soak before serving."]
+  },
+  {
+    "id": 19,
+    "name": "Mango Lassi",
+    "category": "Breakfast",
+    "time": "10 minutes",
+    "image": "https://images.pexels.com/photos/5946967/pexels-photo-5946967.jpeg",
+    "ingredients": ["1 ripe mango", "1 cup curd", "2 tablespoons sugar", "1/4 cup chilled milk", "Cardamom powder", "Ice cubes"],
+    "instructions": ["Peel and chop the mango.", "Add mango, curd, sugar and milk to a blender.", "Add a pinch of cardamom powder.", "Blend until smooth and creamy.", "Add ice cubes and serve chilled."]
+  },
+  {
+    "id": 20,
+    "name": "Vegetable Spring Rolls",
+    "category": "Lunch",
+    "time": "30 minutes",
+    "image": "https://images.pexels.com/photos/4518843/pexels-photo-4518843.jpeg",
+    "ingredients": ["Spring roll sheets", "1 cup shredded cabbage", "1 carrot", "1 capsicum", "1 tablespoon soy sauce", "Pepper", "Oil"],
+    "instructions": ["Chop all vegetables finely.", "Heat oil and saute the vegetables.", "Add soy sauce and pepper.", "Allow the filling to cool.", "Place filling on each spring roll sheet and roll tightly.", "Seal the edges with a little flour paste.", "Fry until crisp and golden."]
+  },
+  {
+    "id": 21,
+    "name": "Classic Chicken Burger",
+    "category": "Dinner",
+    "time": "25 minutes",
+    "image": "https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg",
+    "ingredients": ["2 burger buns", "2 chicken patties", "Lettuce leaves", "2 tomato slices", "Cheese slices", "Mayonnaise", "Salt and pepper"],
+    "instructions": ["Cook chicken patties until fully cooked.", "Toast the burger buns lightly.", "Spread mayonnaise on the buns.", "Place lettuce and tomato slices on the bottom bun.", "Add the chicken patty and cheese.", "Cover with the top bun and serve."]
+  },
+  {
+    "id": 22,
+    "name": "Mexican Veg Tacos",
+    "category": "Lunch",
+    "time": "20 minutes",
+    "image": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "ingredients": ["4 taco shells", "1 cup kidney beans", "1 tomato", "1 onion", "1/2 cup sweet corn", "Lettuce", "Grated cheese", "Taco seasoning"],
+    "instructions": ["Cook kidney beans until soft.", "Saute onion, tomato and sweet corn.", "Add kidney beans and taco seasoning.", "Warm the taco shells.", "Fill each shell with the vegetable mixture.", "Top with lettuce and grated cheese."]
+  },
+  {
+    "id": 23,
+    "name": "Japanese Vegetable Noodles",
+    "category": "Dinner",
+    "time": "20 minutes",
+    "image": "https://images.pexels.com/photos/2347311/pexels-photo-2347311.jpeg",
+    "ingredients": ["200g noodles", "1 carrot", "1 capsicum", "1 cup cabbage", "2 tablespoons soy sauce", "1 teaspoon garlic", "Spring onions", "Oil"],
+    "instructions": ["Boil noodles according to the packet instructions.", "Drain and keep aside.", "Heat oil in a pan and saute garlic.", "Add chopped vegetables and stir-fry.", "Add noodles and soy sauce.", "Toss everything together.", "Garnish with spring onions."]
+  },
+  {
+    "id": 24,
+    "name": "Classic Tiramisu",
+    "category": "Dessert",
+    "time": "30 minutes plus chilling",
+    "image": "https://images.pexels.com/photos/6880219/pexels-photo-6880219.jpeg",
+    "ingredients": ["1 cup mascarpone cheese", "1 cup fresh cream", "1/2 cup strong coffee", "Ladyfinger biscuits", "3 tablespoons sugar", "Cocoa powder"],
+    "instructions": ["Prepare strong coffee and allow it to cool.", "Whip fresh cream and sugar until soft peaks form.", "Fold in mascarpone cheese.", "Dip ladyfinger biscuits briefly in coffee.", "Arrange a layer of biscuits in a dish.", "Spread the cream mixture over the biscuits.", "Repeat the layers and dust with cocoa powder.", "Refrigerate for several hours before serving."]
+  }
+]
